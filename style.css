@@ -1,0 +1,14 @@
+.heading {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 80px;
+}
+.all {
+    text-align: center;
+}
+.list {
+    font-weight: bolder;
+    font-size: large;
+}
+.page {
+    background-color: bisque;
+}
