@@ -12,3 +12,17 @@
 .page {
     background-color: bisque;
 }
+.sub {
+    font-size: 60px;
+}
+.img {
+    height: 500px;
+    width: auto;
+    margin: auto;
+    display: block;      
+}
+.home {
+    font-size: 23px;
+    text-align: center;
+    display:block
+}
